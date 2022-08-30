@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo"git pull"
+=======
+echo "git pull"
+>>>>>>> update_script
